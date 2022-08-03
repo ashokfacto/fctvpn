@@ -7,14 +7,14 @@
 3. Check with your IT/NOC team on this issue.
 
 
-##Pro tip: 
+## Pro tip: 
 
 
 -- Disconnect the VPN explicitly when not in use or when you put your workstation on sleep or shutdown (Connect only when it's required).
-
 
 -- Once the above steps are followed if you still facing issues kindly input the observations as above mentioned yes or no along with comments 
 
 -- When the new Dev's onboarded, please help them on the above steps.
 
-### If you're facing any issues, please share the error screenshots and explain symptoms when the issue started and what troubleshooting steps has been taken.
+
+# If you're facing any issues, please share the error screenshots and explain symptoms when the issue started and what troubleshooting steps has been taken.
