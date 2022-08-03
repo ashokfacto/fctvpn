@@ -1,4 +1,4 @@
-## Basic L1 Troubleshooting/tips this need to be checked on user end
+# Basic L1 Troubleshooting/tips this need to be checked on user end
 
 1. Reapply the VPN patch's and reboot the system only if when the new windows or major upgrade/updates.
 
@@ -7,7 +7,7 @@
 3. Check with your IT/NOC team on this issue.
 
 
-## Pro tip: 
+### Pro tips: 
 
 
 -- Disconnect the VPN explicitly when not in use or when you put your workstation on sleep or shutdown (Connect only when it's required).
@@ -17,4 +17,4 @@
 -- When the new Dev's onboarded, please help them on the above steps.
 
 
-# If you're facing any issues, please share the error screenshots and explain symptoms when the issue started and what troubleshooting steps has been taken.
+#### If you're facing any issues, please share the error screenshots and explain symptoms when the issue started and what troubleshooting steps has been taken.
