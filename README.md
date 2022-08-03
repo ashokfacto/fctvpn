@@ -1,4 +1,9 @@
-# Basic L1 Troubleshooting/tips this need to be checked on user end
+## How to configure on windows 10
+
+https://github.com/ashokfacto/fctvpn/blob/main/Setup%20and%20configure%20VPN%20on%20Windows%2010.pdf
+
+
+### Basic L1 Troubleshooting/tips this need to be checked on user end
 
 1. Reapply the VPN patch's and reboot the system only if when the new windows or major upgrade/updates.
 
